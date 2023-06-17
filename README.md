@@ -5,7 +5,6 @@
 
 ![Kauã GitHub stats](https://github-readme-stats.vercel.app/api?username=kcac1108&show_icons=true&theme=dracula)
 
-
 ## Tecnologias que utilizo diariamente
 
 <div style="display: inline_block"><br/>
