@@ -3,7 +3,14 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-![Kauã GitHub stats](https://github-readme-stats.vercel.app/api?username=kcac1108&show_icons=true&theme=dracula)
+<!--![Kauã GitHub stats](https://github-readme-stats.vercel.app/api?username=kcac1108&show_icons=true&theme=dracula)-->
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kcac1108&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 ## Tecnologias que utilizo diariamente
 
