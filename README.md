@@ -12,7 +12,7 @@ FullStack Developer 👨🏻‍💻
 
 ###
 
-## Tecnologias que utilizo diariamente
+<!--## Tecnologias que utilizo diariamente
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -25,4 +25,4 @@ FullStack Developer 👨🏻‍💻
     <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white" />
     <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</div>
+</div>-->
